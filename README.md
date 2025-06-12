@@ -30,6 +30,7 @@ This project ingests raw sales data into Google Cloud Storage, processes and agg
 
 ## 📂 Project Structure
 
+```
 cloud-sales-analytics-pipeline/
 ├── data/
 │   └── Sample-Superstore.csv
@@ -39,7 +40,7 @@ cloud-sales-analytics-pipeline/
 ├── README.md
 ├── LICENSE
 └── Sales_by_region.pdf
-
+```
 
 ---
 
